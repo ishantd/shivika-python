@@ -1,0 +1,23 @@
+Assignment Lecture 01 
+
+
+Q1) What is a variable?
+
+Q2) What is the result of 10 ** 3?
+
+Q3) What is the result of “bag” > “apple”?
+
+Q4) What is the result of 10 == “10”?
+
+Q5) Write a program to see if a number is divisible by 5.
+
+Q6) What will be the output of the following program (Explain in Python comments using #) :
+	x = 4
+	y = x + 1
+	x = 2
+	print (x, y)
+
+
+
+Please make different program for all the question. Attempt every question. You can refer to the internet for any guidance.
+We will definetely solve these programs in the class too. 
