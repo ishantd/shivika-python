@@ -1,0 +1,14 @@
+Assignment Lecture 01 
+
+
+Q1 ) Make a python program to calculate the area of a rectangle and store it in a variable.
+
+Q2 ) Make a python program to calculate the area and diameter of a cirlce and store it in a variable.
+
+Q3 ) Explain the difference between the results of "4" + "2" and 4 + 2.
+
+Q4 ) Make a python program to output your name which is stored in a variable with string "Hello, (variable)!"
+
+
+Please make different program for all the question. Attempt every question. You can refer to the internet for any guidance.
+We will definetely solve these programs in the class too. 
